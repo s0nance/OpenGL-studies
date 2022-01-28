@@ -3,3 +3,4 @@
 *.vcxproj
 x64/
 *.sln
+.vscode/
